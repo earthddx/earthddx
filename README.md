@@ -1,5 +1,4 @@
 ### Hi there 👋
-### 📫 How to reach me: murzotom@rocketmail.com | discord: enzomenzo#0552
 
 <!--
 **earthddx/earthddx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
