@@ -1,4 +1,7 @@
-### Hi there 👋
+
+Why don't developers tell secrets at stand-up meetings?
+
+Because they’re afraid of **commit**-ment! 
 
 <!--
 **earthddx/earthddx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
